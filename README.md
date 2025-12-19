@@ -87,9 +87,8 @@
 
 ## 📬 Connect with me
 <p align="left">
-<a href="mailto:kis.it.production@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kis.it.production@gmail.com" height="30" width="40" /></a>
+<a href="mailto:kis.it.production@gmail.com" target="blank"></a>
 <a href="https://www.linkedin.com/in/igor-kishchuk-b1b6b7309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-kishchuk-b1b6b7309/" height="30" width="40" /></a>
-<a href="https://t.me/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="your-telegram" height="30" width="40" /></a>
 </p>
 
 ---
