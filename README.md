@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 
+# Hi there, I'm Ihor Kishchuk (KIS-IT-PRODUCTION)! 👋 
 ### 🚀 Multi-platform Developer | Mobile & Web Enthusiast
 
 <p align="left">
