@@ -1,4 +1,4 @@
-# Hi, I'm Ihor Kishchuk (KIS-IT-PRODUCTION)! <img src="https://media.giphy.com/media/hvRJCLzPaklf2/giphy.gif" width="25px">
+# Hi, I'm Ihor Kishchuk (KISOLID-IT-PRODUCTION)! <img src="https://media.giphy.com/media/hvRJCLzPaklf2/giphy.gif" width="25px">
 ### ⚡ Solving problems with [
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=React+Native+Development;Flutter+Apps;Full-stack+Web+Solutions;TypeScript+Architecture)
 ]
